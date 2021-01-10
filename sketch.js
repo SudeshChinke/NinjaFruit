@@ -57,7 +57,7 @@ function setup(){
 }
 
 function draw(){
-  background("green");
+  background("black");
 
   if(gamestate==="play"){
     
